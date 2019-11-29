@@ -1,0 +1,2021 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.821681,1.263347 ]
+    },
+    "properties": {
+    "Title":"Snowman/Snowflake",
+    "URL":"https://publicartsg.webflow.io/artworks/snowman-snowflake",
+    "ArtistsName":"Inges Idee",
+    "YearPlaced":2006,
+    "Current":"yes",
+    "Patron":"VivoCity / Mapletree Development",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.690655,1.266318 ]
+    },
+    "properties": {
+    "Title":"Untitled (Sun Yu Li)",
+    "URL":"https://publicartsg.webflow.io/artworks/untitled",
+    "ArtistsName":"Sun Yu Li",
+    "YearPlaced":2001,
+    "Current":"yes",
+    "Patron":"Jurong Town Corporation",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.704854,1.266539 ]
+    },
+    "properties": {
+    "Title":"Colours of the Wind",
+    "URL":"https://publicartsg.webflow.io/artworks/colours-of-the-wind",
+    "ArtistsName":"Elsie Yu",
+    "YearPlaced":2000,
+    "Current":"yes",
+    "Patron":"Jurong Town Corporation",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.838696,1.272888 ]
+    },
+    "properties": {
+    "Title":"Reliefs at the Keppel Railway Station",
+    "URL":"https://publicartsg.webflow.io/artworks/reliefs-at-the-keppel-railway-station",
+    "ArtistsName":"Angelo Vannetti",
+    "YearPlaced":1932,
+    "Current":"yes",
+    "Patron":"Federated Malay States Railways",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.847376,1.277091 ]
+    },
+    "properties": {
+    "Title":"Shimmering Pearls",
+    "URL":"https://publicartsg.webflow.io/artworks/shimmering-pearls",
+    "ArtistsName":"Han Sai Por",
+    "YearPlaced":2001,
+    "Current":"yes",
+    "Patron":"Capital Land",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.843272,1.277275 ]
+    },
+    "properties": {
+    "Title":"Vanda Miss Joaquim",
+    "URL":"https://publicartsg.webflow.io/artworks/vanda-miss-joaquim",
+    "ArtistsName":"Shiah Chyi Yun",
+    "YearPlaced":2002,
+    "Current":"yes",
+    "Patron":"Tanjong Pagar Plaza Residents' Committee",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.871591,1.279071 ]
+    },
+    "properties": {
+    "Title":"The Force of Nature",
+    "URL":"https://publicartsg.webflow.io/artworks/the-force-of-nature",
+    "ArtistsName":"Lorenzo Quinn",
+    "YearPlaced":2008,
+    "Current":"",
+    "Patron":"Sponsored by Lum Chang",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8f70ac791ce0c571f825fb_Webflow-1040683.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.870926,1.279256 ]
+    },
+    "properties": {
+    "Title":"Beneficence 3",
+    "URL":"https://publicartsg.webflow.io/artworks/beneficence-3",
+    "ArtistsName":"Iskandar Jalil",
+    "YearPlaced":2005,
+    "Current":"yes",
+    "Patron":"Public Utilities Board",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8f7155124e074b93011230_Webflow-1040673.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.870926,1.279256 ]
+    },
+    "properties": {
+    "Title":"What Goes Around Comes Around",
+    "URL":"https://publicartsg.webflow.io/artworks/what-goes-around-comes-around",
+    "ArtistsName":"Lorenzo Quinn",
+    "YearPlaced":2008,
+    "Current":"yes",
+    "Patron":"Sponsored by Lum Chang",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8f70dbd12b5bce358bd51e_Webflow-1040690.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.845284,1.279281 ]
+    },
+    "properties": {
+    "Title":"Celestial Earth",
+    "URL":"https://publicartsg.webflow.io/artworks/celestial-earth",
+    "ArtistsName":"Sun Yu Li",
+    "YearPlaced":1999,
+    "Current":"yes",
+    "Patron":"Urban Redevelopment Authority",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.834662,1.279685 ]
+    },
+    "properties": {
+    "Title":"Tree of Life",
+    "URL":"https://publicartsg.webflow.io/artworks/tree-of-life",
+    "ArtistsName":"Joseph McNally",
+    "YearPlaced":1995,
+    "Current":"yes",
+    "Patron":"Singapore General Hospital",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.844978,1.279812 ]
+    },
+    "properties": {
+    "Title":"Samsui Women",
+    "URL":"https://publicartsg.webflow.io/artworks/samsui-women",
+    "ArtistsName":"Liu Jilin",
+    "YearPlaced":1999,
+    "Current":"yes",
+    "Patron":"Urban Redevelopment Authority",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.854425,1.280017 ]
+    },
+    "properties": {
+    "Title":"Water Buffaloes",
+    "URL":"https://publicartsg.webflow.io/artworks/water-buffaloes",
+    "ArtistsName":"Dame Elisabeth Frink",
+    "YearPlaced":2010,
+    "Current":"yes",
+    "Patron":"Hong Kong Land",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.847446,1.281504 ]
+    },
+    "properties": {
+    "Title":"Chinese Procession & Indian Settlers",
+    "URL":"https://publicartsg.webflow.io/artworks/chinese-procession-indian-settlers",
+    "ArtistsName":"Lim Leong Seng",
+    "YearPlaced":2001,
+    "Current":"yes",
+    "Patron":"Singapore Tourism Board",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.859639,1.281774 ]
+    },
+    "properties": {
+    "Title":"Wind Arbor",
+    "URL":"https://publicartsg.webflow.io/artworks/wind-arbor",
+    "ArtistsName":"Ned Kahn",
+    "YearPlaced":2010,
+    "Current":"yes",
+    "Patron":"Marina Bay Sands",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.852408,1.282196 ]
+    },
+    "properties": {
+    "Title":"Progressive Flow",
+    "URL":"https://publicartsg.webflow.io/artworks/progressive-flow",
+    "ArtistsName":"Han Sai Por",
+    "YearPlaced":2004,
+    "Current":"yes",
+    "Patron":"Singapore Labour Foundation",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8f78bed12b5b204c8c5d13_Webflow-201011.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.851866,1.282346 ]
+    },
+    "properties": {
+    "Title":"Momentum",
+    "URL":"https://publicartsg.webflow.io/artworks/momentum",
+    "ArtistsName":"David Gerstein",
+    "YearPlaced":2007,
+    "Current":"yes",
+    "Patron":"One Raffles Quay (a JV of Keppel Land, Cheung Kong Holdings and Hongkong Land)",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.85111,1.282793 ]
+    },
+    "properties": {
+    "Title":"Harmony",
+    "URL":"https://publicartsg.webflow.io/artworks/harmony-2",
+    "ArtistsName":"Yu Yu Yang",
+    "YearPlaced":2001,
+    "Current":"yes",
+    "Patron":"Collection of City Developments Ltd",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.847972,1.283072 ]
+    },
+    "properties": {
+    "Title":"Untitled (red figures)",
+    "URL":"https://publicartsg.webflow.io/artworks/untitled-red-figures",
+    "ArtistsName":"Sun Yu Li",
+    "YearPlaced":2002,
+    "Current":"yes",
+    "Patron":"Far East Organization",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.853416,1.283206 ]
+    },
+    "properties": {
+    "Title":"Monument to the Early Founders of Singapore",
+    "URL":"https://publicartsg.webflow.io/artworks/monument-to-the-early-founders-of-singapore",
+    "ArtistsName":"artist unknown",
+    "YearPlaced":1970,
+    "Current":"yes",
+    "Patron":"not sure",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.85371,1.28339 ]
+    },
+    "properties": {
+    "Title":"Fullerton Facade",
+    "URL":"https://publicartsg.webflow.io/artworks/fullerton-facade",
+    "ArtistsName":"",
+    "YearPlaced":2010,
+    "Current":"yes",
+    "Patron":"Fullerton Hotel Group",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8f7834791ce06705f8a872_Webflow-201012.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.853084,1.283394 ]
+    },
+    "properties": {
+    "Title":"Black Charging Bull",
+    "URL":"https://publicartsg.webflow.io/artworks/black-charging-bull",
+    "ArtistsName":"Anna Chiara Spellini",
+    "YearPlaced":2008,
+    "Current":"yes",
+    "Patron":"Merrill Lynch",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.851743,1.283426 ]
+    },
+    "properties": {
+    "Title":"Pioneering Spirit (also known as Vitality of the Forerunner)",
+    "URL":"https://publicartsg.webflow.io/artworks/pioneering-spirit-also-known-as-vitality-of-the-forerunner",
+    "ArtistsName":"Aw Tee Hong",
+    "YearPlaced":1988,
+    "Current":"yes",
+    "Patron":"Singapore MRT Corporation",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.781549,1.283999 ]
+    },
+    "properties": {
+    "Title":"Tiger Balm Gardens",
+    "URL":"https://publicartsg.webflow.io/artworks/tiger-balm-gardens",
+    "ArtistsName":"Kwek Hoon Sua, et al.",
+    "YearPlaced":1927,
+    "Current":"yes",
+    "Patron":"The Aw Brothers",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d858d639d77336fdcb34515_2001-06-17%2016.46.54.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.852129,1.284318 ]
+    },
+    "properties": {
+    "Title":"Struggle for Survival",
+    "URL":"https://publicartsg.webflow.io/artworks/struggle-for-survival",
+    "ArtistsName":"Aw Tee Hong",
+    "YearPlaced":1988,
+    "Current":"yes",
+    "Patron":"MRT Corporation",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.853153,1.284641 ]
+    },
+    "properties": {
+    "Title":"Window of Hope",
+    "URL":"https://publicartsg.webflow.io/artworks/window-of-hope",
+    "ArtistsName":"Sun Yu Li",
+    "YearPlaced":2010,
+    "Current":"yes",
+    "Patron":"The Fullerton Heritage",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8ec22eb1d0d2e76f8d0ee0_Webflow-180352.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.851469,1.284788 ]
+    },
+    "properties": {
+    "Title":"Progress and Advancement",
+    "URL":"https://publicartsg.webflow.io/artworks/progress-and-advancement",
+    "ArtistsName":"Yu Yu Yang",
+    "YearPlaced":1988,
+    "Current":"yes",
+    "Patron":"Lien Ying Chow",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.850579,1.284933 ]
+    },
+    "properties": {
+    "Title":"from the Points of View series",
+    "URL":"https://publicartsg.webflow.io/artworks/from-the-points-of-view-series",
+    "ArtistsName":"Tony Cragg",
+    "YearPlaced":2012,
+    "Current":"yes",
+    "Patron":"OUB Bank",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d98bff5e288d81e8e9e13ad_Webflow-2.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.851705,1.284935 ]
+    },
+    "properties": {
+    "Title":"Dual Universe",
+    "URL":"https://publicartsg.webflow.io/artworks/dual-universe",
+    "ArtistsName":"Charles O. Perry",
+    "YearPlaced":1994,
+    "Current":"yes",
+    "Patron":"not sure",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.850461,1.285341 ]
+    },
+    "properties": {
+    "Title":"Homage to Newton",
+    "URL":"https://publicartsg.webflow.io/artworks/homage-to-newton",
+    "ArtistsName":"Salvador Dali",
+    "YearPlaced":1985,
+    "Current":"yes",
+    "Patron":"United Overseas Bank",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8646344a655767224fd859_2001-09-14%2012.20.01.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.849071,1.285446 ]
+    },
+    "properties": {
+    "Title":"Reclining Figure",
+    "URL":"https://publicartsg.webflow.io/artworks/reclining-figure",
+    "ArtistsName":"Henry Moore",
+    "YearPlaced":1983,
+    "Current":"yes",
+    "Patron":"OCBC Bank, at the insistence of I.M. Pei",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.85239,1.285619 ]
+    },
+    "properties": {
+    "Title":"Bank of China Lions",
+    "URL":"https://publicartsg.webflow.io/artworks/bank-of-china-lions",
+    "ArtistsName":"Rodolfo Nolli",
+    "YearPlaced":1952,
+    "Current":"yes",
+    "Patron":"Bank of China",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.850777,1.285679 ]
+    },
+    "properties": {
+    "Title":"Bird",
+    "URL":"https://publicartsg.webflow.io/artworks/bird",
+    "ArtistsName":"Fernando Botero",
+    "YearPlaced":1990,
+    "Current":"yes",
+    "Patron":"United Overseas Bank",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.852322,1.286113 ]
+    },
+    "properties": {
+    "Title":"The River Merchants",
+    "URL":"https://publicartsg.webflow.io/artworks/the-river-merchants",
+    "ArtistsName":"Aw Tee Hong",
+    "YearPlaced":2003,
+    "Current":"yes",
+    "Patron":"Maybank, in collaboration with Singapore Tourism Board and National Heritage Board",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d87438af0c5f3d5d48a2fd9_2003-06-08%2015.50.33.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.852564,1.286515 ]
+    },
+    "properties": {
+    "Title":"First Generation",
+    "URL":"https://publicartsg.webflow.io/artworks/first-generation",
+    "ArtistsName":"Chong Fah Cheong",
+    "YearPlaced":2000,
+    "Current":"yes",
+    "Patron":"Far East Organization and Singapore Tourism Board",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.854586,1.286833 ]
+    },
+    "properties": {
+    "Title":"The Merlion",
+    "URL":"https://publicartsg.webflow.io/artworks/the-merlion",
+    "ArtistsName":"Lim Nang Seng",
+    "YearPlaced":1972,
+    "Current":"yes",
+    "Patron":"Singapore Tourist Promotion Board (now Singapore Tourism Board)",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8647f2f0c5f308388221ca_2001-09-24%2000.41.18-2.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.851705,1.286883 ]
+    },
+    "properties": {
+    "Title":"Sarawak Carved Ceremonial Pole",
+    "URL":"https://publicartsg.webflow.io/artworks/sarawak-carved-ceremonial-pole",
+    "ArtistsName":"artist unknown",
+    "YearPlaced":1991,
+    "Current":"yes",
+    "Patron":"presented by the State Government and People of Sarawak to the Government and People of Singapore",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.851083,1.287092 ]
+    },
+    "properties": {
+    "Title":"From Chettiars to Financiers",
+    "URL":"https://publicartsg.webflow.io/artworks/from-chettiars-to-financiers",
+    "ArtistsName":"Chern Lian Shan",
+    "YearPlaced":2002,
+    "Current":"yes",
+    "Patron":"ExxonMobil, supported by Singapore Tourism Board, National Heritage Board, and Singapore Land Authority",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.851255,1.287092 ]
+    },
+    "properties": {
+    "Title":"Millennium",
+    "URL":"https://publicartsg.webflow.io/artworks/millennium",
+    "ArtistsName":"Victor Tan",
+    "YearPlaced":2002,
+    "Current":"no",
+    "Patron":"ExxonMobil",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.851099,1.287131 ]
+    },
+    "properties": {
+    "Title":"A Great Emporium",
+    "URL":"https://publicartsg.webflow.io/artworks/a-great-emporium",
+    "ArtistsName":"Malcolm Koh",
+    "YearPlaced":2002,
+    "Current":"yes",
+    "Patron":"ExxonMobil, in collaboration with the Singapore Tourism Board, National Heritage Board, and Singapore Land Authority",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.850691,1.287721 ]
+    },
+    "properties": {
+    "Title":"Raffles (white)",
+    "URL":"https://publicartsg.webflow.io/artworks/raffles-white",
+    "ArtistsName":"artist unknown",
+    "YearPlaced":1972,
+    "Current":"yes",
+    "Patron":"Singapore Tourist Promotion Board (now Singapore Tourism Board)",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d85946508e53e1c88df31f8_2001-08-18%2002.03.32.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.852043,1.287778 ]
+    },
+    "properties": {
+    "Title":"Dalhousie Memorial",
+    "URL":"https://publicartsg.webflow.io/artworks/dalhousie-memorial",
+    "ArtistsName":"J.T. Thomson",
+    "YearPlaced":1846,
+    "Current":"yes",
+    "Patron":"\"the European, Chinese and native inhabitants of Singapore\"",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.851823,1.28814 ]
+    },
+    "properties": {
+    "Title":"Raffles",
+    "URL":"https://publicartsg.webflow.io/artworks/raffles",
+    "ArtistsName":"Thomas Woolner",
+    "YearPlaced":1883,
+    "Current":"yes",
+    "Patron":"the government of the Straits Settlements",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d859ca29d77336954b3ba21_2001-08-18%2001.52.16.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.852977,1.28845 ]
+    },
+    "properties": {
+    "Title":"Lim Bo Seng Memorial",
+    "URL":"https://publicartsg.webflow.io/artworks/lim-bo-seng-memorial",
+    "ArtistsName":"Robert Ng Keng Seng",
+    "YearPlaced":1952,
+    "Current":"yes",
+    "Patron":"The Lim Bo Seng Memorial Committee",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.851174,1.288982 ]
+    },
+    "properties": {
+    "Title":"Elephant",
+    "URL":"https://publicartsg.webflow.io/artworks/elephant",
+    "ArtistsName":"artist unknown",
+    "YearPlaced":1864,
+    "Current":"yes",
+    "Patron":"gift of His Majesty King Rama V of Siam",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d99d59f574a7df52e24d562_gajah.jpeg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.856115,1.289063 ]
+    },
+    "properties": {
+    "Title":"Seed Series",
+    "URL":"https://publicartsg.webflow.io/artworks/seed-series",
+    "ArtistsName":"Han Sai Por",
+    "YearPlaced":1998,
+    "Current":"yes",
+    "Patron":"commissioned by Singapore Technologies Engineering",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.848696,1.289208 ]
+    },
+    "properties": {
+    "Title":"Fishing at Singapore River",
+    "URL":"https://publicartsg.webflow.io/artworks/fishing-at-singapore-river",
+    "ArtistsName":"Chern Lian Shan",
+    "YearPlaced":2004,
+    "Current":"yes",
+    "Patron":"The Riverwalk, in collaboration with Singapore Tourism Board & National Heritage Board",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d873d3ead1d4b380cfe79c3_2005-06-02%2018.24.42.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.849407,1.289229 ]
+    },
+    "properties": {
+    "Title":"Singapura Lion roundels",
+    "URL":"https://publicartsg.webflow.io/artworks/singapura-lion-roundels",
+    "ArtistsName":"Rodolfo Nolli",
+    "YearPlaced":1919,
+    "Current":"yes",
+    "Patron":"Public Works Department",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.860637,1.289358 ]
+    },
+    "properties": {
+    "Title":"Friendship",
+    "URL":"https://publicartsg.webflow.io/artworks/friendship",
+    "ArtistsName":"artist unknown",
+    "YearPlaced":2010,
+    "Current":"yes",
+    "Patron":"Youth Olympic Games 2010 - Made possible with sponsorship from Deloitte",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d9011eb7115f9aabbc3df3c_Webflow-1523.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.851281,1.289716 ]
+    },
+    "properties": {
+    "Title":"Allegory of Justice",
+    "URL":"https://publicartsg.webflow.io/artworks/allegory-of-justice",
+    "ArtistsName":"Rodolfo Nolli",
+    "YearPlaced":1937,
+    "Current":"yes",
+    "Patron":"Supreme Court of the Straits Settlements",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.858019,1.290112 ]
+    },
+    "properties": {
+    "Title":"Fleur Maritime",
+    "URL":"https://publicartsg.webflow.io/artworks/fleur-maritime",
+    "ArtistsName":"Antoine Poncet",
+    "YearPlaced":1984,
+    "Current":"yes",
+    "Patron":"Marina Development",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d85e67c8de89c0bf78ebe5a_2001-09-08%2015.43.00.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.853701,1.290318 ]
+    },
+    "properties": {
+    "Title":"the Cenotaph",
+    "URL":"https://publicartsg.webflow.io/artworks/the-cenotaph",
+    "ArtistsName":"Denis Santry",
+    "YearPlaced":1917,
+    "Current":"yes",
+    "Patron":"Colony of Singapore",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.785605,1.290586 ]
+    },
+    "properties": {
+    "Title":"Tropical Brainforest",
+    "URL":"https://publicartsg.webflow.io/artworks/tropical-brainforest",
+    "ArtistsName":"Han Sai Por",
+    "YearPlaced":2003,
+    "Current":"yes",
+    "Patron":"Defense Science Organization",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8744ad9d77337279c2730e_2003-01-29%2010.55.24.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.859092,1.290904 ]
+    },
+    "properties": {
+    "Title":"Continuum II",
+    "URL":"https://publicartsg.webflow.io/artworks/continuum-ii",
+    "ArtistsName":"Charles O. Perry",
+    "YearPlaced":1986,
+    "Current":"yes",
+    "Patron":"Marina Centre Holdings Pte Ltd",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.785288,1.291331 ]
+    },
+    "properties": {
+    "Title":"Towards Excellence",
+    "URL":"https://publicartsg.webflow.io/artworks/towards-excellence",
+    "ArtistsName":"Elsie Yu",
+    "YearPlaced":1989,
+    "Current":"yes",
+    "Patron":"Singapore Science Institute",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.858947,1.291594 ]
+    },
+    "properties": {
+    "Title":"Deva",
+    "URL":"https://publicartsg.webflow.io/artworks/deva",
+    "ArtistsName":"Lin Emery",
+    "YearPlaced":1986,
+    "Current":"yes",
+    "Patron":"Marina Centre Holdings Pte Ltd",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.849044,1.291903 ]
+    },
+    "properties": {
+    "Title":"Fire Safety for Singapore - Yesterday, Today and Tomorrow",
+    "URL":"https://publicartsg.webflow.io/artworks/fire-safety-for-singapore-yesterday-today-and-tomorrow",
+    "ArtistsName":"artist unknown",
+    "YearPlaced":2002,
+    "Current":"yes",
+    "Patron":"Singapore National Fire Prevention Council",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5da14a8a848a161f7ed193a8_2804358203_c256db6701_c.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.857113,1.292216 ]
+    },
+    "properties": {
+    "Title":"Between Sea and Sky",
+    "URL":"https://publicartsg.webflow.io/artworks/between-sea-and-sky",
+    "ArtistsName":"Olivier Strebelle",
+    "YearPlaced":1986,
+    "Current":"yes",
+    "Patron":"Marina Centre Holdings",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.857306,1.292586 ]
+    },
+    "properties": {
+    "Title":"Abundance III",
+    "URL":"https://publicartsg.webflow.io/artworks/abundance-iii",
+    "ArtistsName":"Sun Yu Li",
+    "YearPlaced":1999,
+    "Current":"yes",
+    "Patron":"Suntec City Development",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.854637,1.292917 ]
+    },
+    "properties": {
+    "Title":"War Memorial (chopsticks)",
+    "URL":"https://publicartsg.webflow.io/artworks/war-memorial-chopsticks",
+    "ArtistsName":"Swan & Maclaren",
+    "YearPlaced":1964,
+    "Current":"yes",
+    "Patron":"Singapore Chinese Chamber of Commerce and Industry, Government of Singapore",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.843068,1.29296 ]
+    },
+    "properties": {
+    "Title":"Space-Time Link",
+    "URL":"https://publicartsg.webflow.io/artworks/space-time-link",
+    "ArtistsName":"Anthony Poon",
+    "YearPlaced":1997,
+    "Current":"yes",
+    "Patron":"Shell Singapore",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d99d8454aefbe0dd49374e0_spacetime.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.85995,1.29311 ]
+    },
+    "properties": {
+    "Title":"Singapore Brushstrokes",
+    "URL":"https://publicartsg.webflow.io/artworks/singapore-brushstrokes",
+    "ArtistsName":"Roy Lichtenstein",
+    "YearPlaced":1997,
+    "Current":"yes",
+    "Patron":"Pontiac Marina",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.843026,1.293222 ]
+    },
+    "properties": {
+    "Title":"Reaching",
+    "URL":"https://publicartsg.webflow.io/artworks/reaching",
+    "ArtistsName":"Sun Yu Li",
+    "YearPlaced":1992,
+    "Current":"yes",
+    "Patron":"",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d873562ad1d4b38b5fe3a8f_2006-03-25%2017.12.16.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.843026,1.293222 ]
+    },
+    "properties": {
+    "Title":"Reaching II",
+    "URL":"https://publicartsg.webflow.io/artworks/reaching-ii",
+    "ArtistsName":"Sun Yu Li",
+    "YearPlaced":1997,
+    "Current":"yes",
+    "Patron":"UE Square",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.850033,1.293234 ]
+    },
+    "properties": {
+    "Title":"Nine Dragon Mural",
+    "URL":"https://publicartsg.webflow.io/artworks/nine-dragon-mural",
+    "ArtistsName":"Peking Glaze Tiles Factory",
+    "YearPlaced":1962,
+    "Current":"yes",
+    "Patron":"Singapore Chinese Chamber of Commerce",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.849189,1.294227 ]
+    },
+    "properties": {
+    "Title":"A Visit to the Museum: Taking the Past Forward",
+    "URL":"https://publicartsg.webflow.io/artworks/a-visit-to-the-museum-taking-the-past-forward",
+    "ArtistsName":"Chern Lian Shan",
+    "YearPlaced":2000,
+    "Current":"yes",
+    "Patron":"National Heritage Board",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.849297,1.294372 ]
+    },
+    "properties": {
+    "Title":"The Substation Mural Wall",
+    "URL":"https://publicartsg.webflow.io/artworks/the-substation-mural-wall",
+    "ArtistsName":"various artists",
+    "YearPlaced":1991,
+    "Current":"yes",
+    "Patron":"The Substation Ltd",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.859103,1.294759 ]
+    },
+    "properties": {
+    "Title":"Chinese Zodiac Medallions",
+    "URL":"https://publicartsg.webflow.io/artworks/chinese-zodiac-medallions",
+    "ArtistsName":"Han Sai Por",
+    "YearPlaced":1999,
+    "Current":"yes",
+    "Patron":"Suntec City Development",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.848755,1.295893 ]
+    },
+    "properties": {
+    "Title":"Let There Be Peace",
+    "URL":"https://publicartsg.webflow.io/artworks/let-there-be-peace",
+    "ArtistsName":"Alexandra Nechita",
+    "YearPlaced":2005,
+    "Current":"yes",
+    "Patron":"presented by the artist to the people of Singapore",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.846915,1.296053 ]
+    },
+    "properties": {
+    "Title":"Augury",
+    "URL":"https://publicartsg.webflow.io/artworks/augury",
+    "ArtistsName":"Anthony Lau",
+    "YearPlaced":1988,
+    "Current":"yes",
+    "Patron":"ASEAN Sculpture Symposium",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.848567,1.296088 ]
+    },
+    "properties": {
+    "Title":"Transformation",
+    "URL":"https://publicartsg.webflow.io/artworks/transformation",
+    "ArtistsName":"Tan Teng Kee",
+    "YearPlaced":2006,
+    "Current":"yes",
+    "Patron":"National Museum of Singapore",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5da14dee848a1604acd1bbb6_323543646_f18e35eafe_o.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.847097,1.296153 ]
+    },
+    "properties": {
+    "Title":"Concentration",
+    "URL":"https://publicartsg.webflow.io/artworks/concentration",
+    "ArtistsName":"Vichai Sithiratu",
+    "YearPlaced":1981,
+    "Current":"yes",
+    "Patron":"ASEAN Sculpture Symposium",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d85e5e74a655751ec4c5909_2001-09-08%2010.44.23.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.847022,1.29619 ]
+    },
+    "properties": {
+    "Title":"Together",
+    "URL":"https://publicartsg.webflow.io/artworks/together",
+    "ArtistsName":"Osman bin Mohammad",
+    "YearPlaced":1988,
+    "Current":"yes",
+    "Patron":"ASEAN Sculpture Symposium",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.847306,1.296206 ]
+    },
+    "properties": {
+    "Title":"Fredesvinda",
+    "URL":"https://publicartsg.webflow.io/artworks/fredesvinda",
+    "ArtistsName":"Napoleon Abueva",
+    "YearPlaced":1982,
+    "Current":"yes",
+    "Patron":"ASEAN Sculpture Garden",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d85e61e08e53e0ae3e16378_2001-09-08%2010.45.25.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.846985,1.296249 ]
+    },
+    "properties": {
+    "Title":"Unity",
+    "URL":"https://publicartsg.webflow.io/artworks/unity",
+    "ArtistsName":"But Muditor",
+    "YearPlaced":1982,
+    "Current":"yes",
+    "Patron":"ASEAN Sculpture Symposium",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d85e57e4a65570d424c552a_2001-09-08%2010.41.37.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.84891,1.296298 ]
+    },
+    "properties": {
+    "Title":"Living World",
+    "URL":"https://publicartsg.webflow.io/artworks/living-world",
+    "ArtistsName":"Ju Ming",
+    "YearPlaced":1987,
+    "Current":"yes",
+    "Patron":"funded by TIBS, for Singapore National Museum centennial celebrations",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8f7975b2bf2b4abd9769ec_Webflow-.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.846453,1.296437 ]
+    },
+    "properties": {
+    "Title":"Balance",
+    "URL":"https://publicartsg.webflow.io/artworks/balance",
+    "ArtistsName":"Ng Eng Teng (黄荣庭)",
+    "YearPlaced":1982,
+    "Current":"yes",
+    "Patron":"ASEAN Sculpture Symposium",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d85e4ba8de89ceaba8e9fdb_2001-09-08%2010.40.35.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.848991,1.296437 ]
+    },
+    "properties": {
+    "Title":"Seeds",
+    "URL":"https://publicartsg.webflow.io/artworks/seeds",
+    "ArtistsName":"Han Sai Por",
+    "YearPlaced":2006,
+    "Current":"yes",
+    "Patron":"National Museum of Singapore",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d99d57ce288d86b0da54cea_seeds2.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.847795,1.296646 ]
+    },
+    "properties": {
+    "Title":"Pedas Pedas",
+    "URL":"https://publicartsg.webflow.io/artworks/pedas-pedas",
+    "ArtistsName":"Kumari Nahappan",
+    "YearPlaced":2006,
+    "Current":"yes",
+    "Patron":"National Museum of Singapore",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.848921,1.296718 ]
+    },
+    "properties": {
+    "Title":"20 Tonnes",
+    "URL":"https://publicartsg.webflow.io/artworks/20-tonnes",
+    "ArtistsName":"Han Sai Por",
+    "YearPlaced":2002,
+    "Current":"yes",
+    "Patron":"National Museum of Singapore",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8733764a655720f45845b2_40Tonnes.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.84838,1.29714 ]
+    },
+    "properties": {
+    "Title":"Typical Prosperous and Honest Merchant",
+    "URL":"https://publicartsg.webflow.io/artworks/typical-prosperous-and-honest-merchant",
+    "ArtistsName":"William G. Stirling",
+    "YearPlaced":1937,
+    "Current":"no",
+    "Patron":"gift of the artist",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d859dd74a6557581e4a7f0c_2001-09-08%2009.40.53.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.850487,1.297542 ]
+    },
+    "properties": {
+    "Title":"The Explorer",
+    "URL":"https://publicartsg.webflow.io/artworks/the-explorer",
+    "ArtistsName":"Ng Eng Teng",
+    "YearPlaced":1999,
+    "Current":"no",
+    "Patron":"Singapore Art Museum, National Heritage Board",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d99d8134aefbe7bd4937392_explore.jpeg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.854371,1.297616 ]
+    },
+    "properties": {
+    "Title":"Another Day",
+    "URL":"https://publicartsg.webflow.io/artworks/another-day",
+    "ArtistsName":"Chong Fah Cheong",
+    "YearPlaced":2004,
+    "Current":"yes",
+    "Patron":"",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.845799,1.297902 ]
+    },
+    "properties": {
+    "Title":"Dancer",
+    "URL":"https://publicartsg.webflow.io/artworks/dancer",
+    "ArtistsName":"Sun Yu Li",
+    "YearPlaced":1993,
+    "Current":"no",
+    "Patron":"Wing Tai Land",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.854253,1.297906 ]
+    },
+    "properties": {
+    "Title":"Once Upon a Time",
+    "URL":"https://publicartsg.webflow.io/artworks/once-upon-a-time",
+    "ArtistsName":"Chong Fah Cheong",
+    "YearPlaced":2012,
+    "Current":"yes",
+    "Patron":"National Library Board",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.848138,1.298051 ]
+    },
+    "properties": {
+    "Title":"Endless Flow",
+    "URL":"https://publicartsg.webflow.io/artworks/endless-flow",
+    "ArtistsName":"Tan Teng Kee",
+    "YearPlaced":1980,
+    "Current":"yes",
+    "Patron":"OCBC Centre Pte Ltd, originally for their bank headquarters",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d85d565f0c5f34e5d7deee2_2001-09-08%2009.50.37.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.836433,1.300532 ]
+    },
+    "properties": {
+    "Title":"Spirit of Youth",
+    "URL":"https://publicartsg.webflow.io/artworks/spirit-of-youth",
+    "ArtistsName":"Thang Kiang How",
+    "YearPlaced":1990,
+    "Current":"yes",
+    "Patron":"Donated by People's Association Youth Movement",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.770756,1.30087 ]
+    },
+    "properties": {
+    "Title":"Striving",
+    "URL":"https://publicartsg.webflow.io/artworks/striving",
+    "ArtistsName":"Sun Yu Li",
+    "YearPlaced":1999,
+    "Current":"yes",
+    "Patron":"Lum Chang Building Contractors, for the National University of Singapore",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.838423,1.300913 ]
+    },
+    "properties": {
+    "Title":"Temu-sek",
+    "URL":"https://publicartsg.webflow.io/artworks/temu-sek",
+    "ArtistsName":"Chong Fah Cheong",
+    "YearPlaced":1987,
+    "Current":"yes",
+    "Patron":"Singapore SMRT",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.78045,1.301024 ]
+    },
+    "properties": {
+    "Title":"Root 2",
+    "URL":"https://publicartsg.webflow.io/artworks/root-2",
+    "ArtistsName":"Min Chen",
+    "YearPlaced":1997,
+    "Current":"yes",
+    "Patron":"Institute of Technical Education",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.90249,1.30128 ]
+    },
+    "properties": {
+    "Title":"Singing Chilis",
+    "URL":"https://publicartsg.webflow.io/artworks/singing-chilis",
+    "ArtistsName":"Kumari Nahappan",
+    "YearPlaced":2008,
+    "Current":"yes",
+    "Patron":"Wheelock Properties",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.771942,1.301446 ]
+    },
+    "properties": {
+    "Title":"Contentment",
+    "URL":"https://publicartsg.webflow.io/artworks/contentment",
+    "ArtistsName":"Ng Eng Teng",
+    "YearPlaced":1974,
+    "Current":"yes",
+    "Patron":"DBS Land",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.771663,1.301529 ]
+    },
+    "properties": {
+    "Title":"Wealth",
+    "URL":"https://publicartsg.webflow.io/artworks/wealth",
+    "ArtistsName":"Ng Eng Teng",
+    "YearPlaced":1974,
+    "Current":"yes",
+    "Patron":"DBS Land",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d86486a4a655764b74ff219_2001-09-24%2018.34.20.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.836304,1.302224 ]
+    },
+    "properties": {
+    "Title":"Peace and Prosperity",
+    "URL":"https://publicartsg.webflow.io/artworks/peace-and-prosperity",
+    "ArtistsName":"Yu Yu Yang",
+    "YearPlaced":1971,
+    "Current":"no",
+    "Patron":"Mandarin Hotel, Lien Ying Chow",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d87442c9d7733b184c27181_2003-09-14%2017.09.52.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.835451,1.303262 ]
+    },
+    "properties": {
+    "Title":"Untitled",
+    "URL":"https://publicartsg.webflow.io/artworks/untitled-2",
+    "ArtistsName":"Sun Yu Li",
+    "YearPlaced":2002,
+    "Current":"yes",
+    "Patron":"Paragon Shopping Centre",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.872739,1.303357 ]
+    },
+    "properties": {
+    "Title":"Fertile Crescent",
+    "URL":"https://publicartsg.webflow.io/artworks/fertile-crescent",
+    "ArtistsName":"Ramon Orlina",
+    "YearPlaced":1986,
+    "Current":"no",
+    "Patron":"Singapore Sports Council",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.792259,1.303557 ]
+    },
+    "properties": {
+    "Title":"Sars Inhibited",
+    "URL":"https://publicartsg.webflow.io/artworks/sars-inhibited",
+    "ArtistsName":"Mara G. Haseltine",
+    "YearPlaced":2006,
+    "Current":"yes",
+    "Patron":"",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d98bf586e7b48f03605311d_Webflow-04.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.83218,1.30446 ]
+    },
+    "properties": {
+    "Title":"Singapore's Multicultural Life",
+    "URL":"https://publicartsg.webflow.io/artworks/singapores-multicultural-life",
+    "ArtistsName":"Chieu Shuey Fook",
+    "YearPlaced":1987,
+    "Current":"no",
+    "Patron":"Singapore MRTC",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.843889,1.304532 ]
+    },
+    "properties": {
+    "Title":"Transformation Series 2",
+    "URL":"https://publicartsg.webflow.io/artworks/transformation-series-2",
+    "ArtistsName":"Han Sai Por",
+    "YearPlaced":2012,
+    "Current":"yes",
+    "Patron":"not sure",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.831744,1.304862 ]
+    },
+    "properties": {
+    "Title":"Nutmeg & Mace",
+    "URL":"https://publicartsg.webflow.io/artworks/nutmeg-mace",
+    "ArtistsName":"Kumari Nahappan",
+    "YearPlaced":2009,
+    "Current":"yes",
+    "Patron":"ION Orchard",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8f6e90e6be586e573a43bf_Webflow-1030829.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.825339,1.304916 ]
+    },
+    "properties": {
+    "Title":"Harmony",
+    "URL":"https://publicartsg.webflow.io/artworks/harmony",
+    "ArtistsName":"Stephanie Scuris",
+    "YearPlaced":1982,
+    "Current":"yes",
+    "Patron":"John Portman Associates, architects of the Pavilion Intercontinental Hotel",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.828794,1.304917 ]
+    },
+    "properties": {
+    "Title":"Vitality",
+    "URL":"https://publicartsg.webflow.io/artworks/vitality",
+    "ArtistsName":"Sun Yu Li",
+    "YearPlaced":1994,
+    "Current":"yes",
+    "Patron":"Four Seasons Hotel",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.791664,1.305673 ]
+    },
+    "properties": {
+    "Title":"Horse",
+    "URL":"https://publicartsg.webflow.io/artworks/horse",
+    "ArtistsName":"Fernando Botero",
+    "YearPlaced":2012,
+    "Current":"yes",
+    "Patron":"",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8ebfb156f19e4f046b3624_Webflow-1389418334449.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.825693,1.305715 ]
+    },
+    "properties": {
+    "Title":"Sense Surround, #1, #2, #3, #4",
+    "URL":"https://publicartsg.webflow.io/artworks/sense-surround-1-2-3-4",
+    "ArtistsName":"Anthony Poon",
+    "YearPlaced":2008,
+    "Current":"yes",
+    "Patron":"St Regis Hotel",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.825725,1.305796 ]
+    },
+    "properties": {
+    "Title":"Dragon-Riding Bodhisattva",
+    "URL":"https://publicartsg.webflow.io/artworks/dragon-riding-bodhisattva",
+    "ArtistsName":"Li Chen",
+    "YearPlaced":2006,
+    "Current":"yes",
+    "Patron":"St Regis Hotel",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8733d9f0c5f39cc089ab5c_2015-09-19%2015.01.37.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.845284,1.305833 ]
+    },
+    "properties": {
+    "Title":"Portrait of Queen Victoria",
+    "URL":"https://publicartsg.webflow.io/artworks/portrait-of-queen-victoria",
+    "ArtistsName":"E. F. Geflowski",
+    "YearPlaced":1881,
+    "Current":"yes",
+    "Patron":"\"the Chinese Community of Singapore\"",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.866109,1.30594 ]
+    },
+    "properties": {
+    "Title":"Spirit of Kallang",
+    "URL":"https://publicartsg.webflow.io/artworks/spirit-of-kallang",
+    "ArtistsName":"Lim Leong Seng",
+    "YearPlaced":1998,
+    "Current":"yes",
+    "Patron":"Singapore Power Ltd",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.82932,1.305954 ]
+    },
+    "properties": {
+    "Title":"Hilton Mural",
+    "URL":"https://publicartsg.webflow.io/artworks/hilton-mural",
+    "ArtistsName":"Gerard d'Alton Henderson",
+    "YearPlaced":1964,
+    "Current":"yes",
+    "Patron":"Hilton Hotel",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.829201,1.306139 ]
+    },
+    "properties": {
+    "Title":"Qin Shu Bao & Wei Chi Jing De",
+    "URL":"https://publicartsg.webflow.io/artworks/qin-shu-bao-wei-chi-jing-de",
+    "ArtistsName":"Aw Eng Kwang",
+    "YearPlaced":1975,
+    "Current":"yes",
+    "Patron":"Hilton Hotel",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.828155,1.306782 ]
+    },
+    "properties": {
+    "Title":"Mother and Child",
+    "URL":"https://publicartsg.webflow.io/artworks/mother-and-child",
+    "ArtistsName":"Ng Eng Teng",
+    "YearPlaced":1980,
+    "Current":"yes",
+    "Patron":"Far East Organization",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8f6fe7ae00223894533399_Webflow-.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.816456,1.307641 ]
+    },
+    "properties": {
+    "Title":"Swing Me Mama",
+    "URL":"https://publicartsg.webflow.io/artworks/swing-me-mama",
+    "ArtistsName":"Dominic Benhura",
+    "YearPlaced":1996,
+    "Current":"yes",
+    "Patron":"donated by the Rotary Clubs of Singapore to the Singapore Botanic Gardens",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.817174,1.30823 ]
+    },
+    "properties": {
+    "Title":"Girl on a Bicycle",
+    "URL":"https://publicartsg.webflow.io/artworks/girl-on-a-bicycle",
+    "ArtistsName":"Sydney Harpley",
+    "YearPlaced":1987,
+    "Current":"yes",
+    "Patron":"donated by David Marshall to the Botanic Gardens, National Parks Board",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.817089,1.31051 ]
+    },
+    "properties": {
+    "Title":"Girl on a Swing",
+    "URL":"https://publicartsg.webflow.io/artworks/girl-on-a-swing",
+    "ArtistsName":"Sydney Harpley",
+    "YearPlaced":1984,
+    "Current":"yes",
+    "Patron":"donated by David Marshall to the Botanic Gardens, National Parks Board",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.816638,1.310939 ]
+    },
+    "properties": {
+    "Title":"Lady on a Hammock",
+    "URL":"https://publicartsg.webflow.io/artworks/lady-on-a-hammock",
+    "ArtistsName":"Sydney Harpley",
+    "YearPlaced":1989,
+    "Current":"yes",
+    "Patron":"donated by David Marshall to the Botanic Gardens, National Parks Board",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.815495,1.313454 ]
+    },
+    "properties": {
+    "Title":"Monument to Chopin",
+    "URL":"https://publicartsg.webflow.io/artworks/monument-to-chopin",
+    "ArtistsName":"Karol Badyna",
+    "YearPlaced":2008,
+    "Current":"yes",
+    "Patron":"gift to the people of Singapore from the people of Poland",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.764614,1.315478 ]
+    },
+    "properties": {
+    "Title":"Water Bubbles",
+    "URL":"https://publicartsg.webflow.io/artworks/water-bubbles",
+    "ArtistsName":"Chua Boon Kee",
+    "YearPlaced":2011,
+    "Current":"yes",
+    "Patron":"Surbana Corporation Pte Ltd",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.842993,1.318136 ]
+    },
+    "properties": {
+    "Title":"Mural",
+    "URL":"https://publicartsg.webflow.io/artworks/mural",
+    "ArtistsName":"Eduardo Castrillo",
+    "YearPlaced":1973,
+    "Current":"yes",
+    "Patron":"not sure",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8f790f124e071e2c01ad37_Webflow--4.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.842666,1.319428 ]
+    },
+    "properties": {
+    "Title":"Spring",
+    "URL":"https://publicartsg.webflow.io/artworks/spring",
+    "ArtistsName":"Han Sai Por",
+    "YearPlaced":1997,
+    "Current":"yes",
+    "Patron":"Internal Revenue Service",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d99d88ae288d86c9fa56434_spring.jpeg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.848578,1.331522 ]
+    },
+    "properties": {
+    "Title":"Affinity",
+    "URL":"https://publicartsg.webflow.io/artworks/affinity",
+    "ArtistsName":"Anthony Poon",
+    "YearPlaced":2004,
+    "Current":"yes",
+    "Patron":"Housing and Development Board (HDB)",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d87466ff0c5f3317c8a4213_2006-02-18%2016.07.31.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.849329,1.332482 ]
+    },
+    "properties": {
+    "Title":"Mama's Precious One",
+    "URL":"https://publicartsg.webflow.io/artworks/mamas-precious-one",
+    "ArtistsName":"Chong Fah Cheong",
+    "YearPlaced":1989,
+    "Current":"yes",
+    "Patron":"Singapore Housing Development Board (HDB)",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8746e0f0c5f3a7948a4620_2006-02-18%2016.35.54.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.672475,1.332686 ]
+    },
+    "properties": {
+    "Title":"Merdeka Bridge Lions",
+    "URL":"https://publicartsg.webflow.io/artworks/merdeka-bridge-lions",
+    "ArtistsName":"Rodolfo Nolli",
+    "YearPlaced":1954,
+    "Current":"yes",
+    "Patron":"Singapore Municipality (?)",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d87340b8de89ce0079a7cc6_2014-04-19%2019.06.38.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.848969,1.332771 ]
+    },
+    "properties": {
+    "Title":"The Climb",
+    "URL":"https://publicartsg.webflow.io/artworks/the-climb",
+    "ArtistsName":"Ng Eng Teng",
+    "YearPlaced":2004,
+    "Current":"yes",
+    "Patron":"Housing and Development Board, or Toa Payoh Town?",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8747594a6557c6e6590651_2006-02-18%2015.55.03.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.729692,1.337953 ]
+    },
+    "properties": {
+    "Title":"Chinese Legendary Heroes",
+    "URL":"https://publicartsg.webflow.io/artworks/chinese-legendary-heroes",
+    "ArtistsName":"artist unknown",
+    "YearPlaced":1991,
+    "Current":"yes",
+    "Patron":"Donated by Tee Yih Jia Food Manufacturing Pte Ltd",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.845053,1.369468 ]
+    },
+    "properties": {
+    "Title":"Jiang",
+    "URL":"https://publicartsg.webflow.io/artworks/jiang",
+    "ArtistsName":"Ng Yak Whee",
+    "YearPlaced":1990,
+    "Current":"yes",
+    "Patron":"Ang Mo Kio South Town Council  and Apple Computer",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.941693,1.371159 ]
+    },
+    "properties": {
+    "Title":"Unity",
+    "URL":"https://publicartsg.webflow.io/artworks/unity-2",
+    "ArtistsName":"Lim Leong Seng",
+    "YearPlaced":1994,
+    "Current":"yes",
+    "Patron":"Elias Green Condo",
+    "KeyImage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.835424,1.425432 ]
+    },
+    "properties": {
+    "Title":"Lim Nee Soon Bronze Statue",
+    "URL":"https://publicartsg.webflow.io/artworks/lim-nee-soon",
+    "ArtistsName":"the Shanghai Oil Painting & Sculpture Research Institute",
+    "YearPlaced":1992,
+    "Current":"no",
+    "Patron":"The Town Council Nee Soon Central",
+    "KeyImage":"https://uploads-ssl.webflow.com/5d850238a2d3aabfc3c112cb/5d8745b8ad1d4be65dfeb4c2_2005-08-08%2018.48.52.jpg"
+    }
+  }
+]
+}
