@@ -1,7 +1,7 @@
 # publicartSG
 data and code related to public art in Singapore
 
-I put the basic dataset -- information on 147 artworks in (or once in) public space in Singapore — in the public domain in 2016 or so. Recently I've been working on republishing the data, and so converted teh dataset to geoJSON. I'm now putting it on github as a public repository so other folks can use it. 
+I put the basic dataset -- information on 147 artworks in (or once in) public space in Singapore — in the public domain in 2016 or so. Recently I've been working on republishing the data, and so converted the dataset to geoJSON. I'm now putting it on github as a public repository so other folks can use it. 
 
 Key fields/properties in the data:
 
